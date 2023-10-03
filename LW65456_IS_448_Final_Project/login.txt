@@ -1,0 +1,4 @@
+Username and Password to admin site:
+(1, 'Kamran', 'kamran1'),
+(2, 'test', 'test'),
+(5, 'user', 'passsword');
